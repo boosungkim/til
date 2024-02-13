@@ -1,4 +1,4 @@
-# How to handle a space in the section title
+# How to replace the home partition
 
 Let's say that you have a section title that reads `## Story time`. Sometimes, `[Story time](#story-time)` will work, but not on platforms like GitHub and Obsidian.
 
