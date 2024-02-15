@@ -17,3 +17,4 @@ A collection of blogs and tidbits of information.
 
 ## Linux
 - [How to replace the home partition](linux/how-to-replace-home.md)
+- [How to handle unsafe gpg directories (chmod 700)](linux/unsafe-gpg-dir.md)
