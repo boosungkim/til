@@ -16,6 +16,7 @@ A collection of blogs and tidbits of information.
 ---
 ## Best Practices
 - [Conventional Commits](best-practices/conventional-commits.md)
+- [Industry Standards](best-practices/industry-standards.md) (What softwares do companies use?)
 
 ## Markdown
 - [How to handle a space in the section title](markdown/how-to-handle-space.md)
