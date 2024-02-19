@@ -5,6 +5,7 @@ A collection of blogs and tidbits of information.
 
 ## Table of Contents
 ### Tech
+- [Best Practices](#best-practices)
 - [Blog Posts](blogs/blogs.md)
 - [Markdown](#markdown)
 - [Linux](#linux)
@@ -13,6 +14,8 @@ A collection of blogs and tidbits of information.
 - [International Relations](#international-relations)
 
 ---
+## Best Practices
+- [Conventional Commits](best-practices/conventional-commits.md)
 
 ## Markdown
 - [How to handle a space in the section title](markdown/how-to-handle-space.md)
