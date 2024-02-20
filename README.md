@@ -1,20 +1,25 @@
 # TIL
 > Today, I learned...
 
-A collection of blogs and tidbits of information.
+A collection f bologs and tidbits of information.
 
 ## Table of Contents
+### Blog Posts
+
+
 ### Tech
 - [Best Practices](#best-practices)
-- [Blog Posts](blogs/blogs.md)
 - [JavaScript](#javascript)
 - [Linux](#linux)
+- [Machine Learning](#machine-learning)
 - [Markdown](#markdown)
 
 ### Non-Tech
 - [International Relations](#international-relations)
 
 ---
+---
+
 ## Best Practices
 - [Conventional Commits](best-practices/conventional-commits.md)
 - [Industry Standards](best-practices/industry-standards.md) (What softwares do companies use?)
@@ -25,6 +30,8 @@ A collection of blogs and tidbits of information.
 ## Linux
 - [How to replace the home partition](linux/how-to-replace-home.md)
 - [How to handle unsafe gpg directories (chmod 700)](linux/unsafe-gpg-dir.md)
+
+## Machine Learning
 
 ## Markdown
 - [How to handle a space in the section title](markdown/how-to-handle-space.md)
