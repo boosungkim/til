@@ -1,7 +1,7 @@
 # TIL
 > Today, I learned...
 
-A collection f bologs and tidbits of information.
+A collection of blogs and tidbits of information.
 
 ## Table of Contents
 ### Blog Posts
