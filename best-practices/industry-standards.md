@@ -5,4 +5,7 @@
 - Cheaper alternative: **Notion**.
 
 ## Project Documentation
-- **Confluence** (Documentation management, Sharing + collaboration).
+- **Confluence**: Documentation management, Sharing + collaboration.
+
+## Databases
+- **DBeaver**: Database Management System. Open source and versatile (can manage many different types of SQL).
