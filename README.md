@@ -9,6 +9,7 @@ A collection of blogs and tidbits of information.
 
 ### Tech
 - [Best Practices](#best-practices)
+- [Java](#java)
 - [JavaScript](#javascript)
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
@@ -23,6 +24,9 @@ A collection of blogs and tidbits of information.
 ## Best Practices
 - [Conventional Commits](best-practices/conventional-commits.md)
 - [Industry Standards](best-practices/industry-standards.md) (What softwares do companies use?)
+
+## Java
+- [Logging in Java: Log4j vs SLF4J](java/logging-in-java.md)
 
 ## JavaScript
 - [Node vs npm vs V8: Different tools in JavaScript](javascript/different-tools-in-js.md)
