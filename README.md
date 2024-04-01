@@ -24,6 +24,7 @@ A collection of blogs and tidbits of information.
 ## Best Practices
 - [Conventional Commits](best-practices/conventional-commits.md)
 - [Industry Standards](best-practices/industry-standards.md) (What softwares do companies use?)
+- [UML diagrams](https://www.youtube.com/watch?v=6XrL5jXmTwM)
 
 ## Java
 - [Logging in Java: Log4j vs SLF4J](java/logging-in-java.md)
