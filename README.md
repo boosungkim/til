@@ -14,6 +14,7 @@ A collection of blogs and tidbits of information.
 - [Linux](#linux)
 - [Machine Learning](#machine-learning)
 - [Markdown](#markdown)
+- [Python](#python)
 
 ### Non-Tech
 - [International Relations](#international-relations)
@@ -41,6 +42,8 @@ A collection of blogs and tidbits of information.
 ## Markdown
 - [How to handle a space in the section title](markdown/how-to-handle-space.md)
 
+## Python
+- [NVM for Python: Pyenv](python/pyenv.md)
 
 ---
 
