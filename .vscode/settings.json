@@ -1,6 +1,7 @@
 {
     "conventionalCommits.scopes": [
         "Best Practices",
-        "Python"
+        "Python",
+        "Linux"
     ]
 }
