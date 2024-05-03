@@ -9,6 +9,7 @@ A collection of blogs and tidbits of information.
 
 ### Tech
 - [Best Practices](#best-practices)
+- [Cryptography](#cryptography)
 - [Java](#java)
 - [JavaScript](#javascript)
 - [Linux](#linux)
@@ -26,6 +27,9 @@ A collection of blogs and tidbits of information.
 - [Conventional Commits](best-practices/conventional-commits.md)
 - [Industry Standards](best-practices/industry-standards.md) (What softwares do companies use?)
 - [UML diagrams](https://www.youtube.com/watch?v=6XrL5jXmTwM)
+
+## Cryptography
+- [Salts and peppers](cryptography/salts-and-peppers.md)
 
 ## Java
 - [Logging in Java: Log4j vs SLF4J](java/logging-in-java.md)
