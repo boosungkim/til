@@ -27,6 +27,7 @@ A collection of blogs and tidbits of information.
 - [Conventional Commits](best-practices/conventional-commits.md)
 - [Industry Standards](best-practices/industry-standards.md) (What softwares do companies use?)
 - [UML diagrams](https://www.youtube.com/watch?v=6XrL5jXmTwM)
+- [Spike](best-practice/spike.md)
 
 ## Cryptography
 - [Salts and peppers](cryptography/salts-and-peppers.md)
