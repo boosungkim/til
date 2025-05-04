@@ -42,6 +42,7 @@ A collection of blogs and tidbits of information.
 - [How to replace the home partition](linux/how-to-replace-home.md)
 - [How to handle unsafe gpg directories (chmod 700)](linux/unsafe-gpg-dir.md)
 - [App already running process error](linux/app-already-running.md)
+- [Linux WiFi drop due to battery saving](linux/wifi-drop-battery-saving.md)
 
 ## Machine Learning
 
