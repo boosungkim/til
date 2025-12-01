@@ -3,7 +3,10 @@
 
 A collection of blogs and tidbits of information.
 
-## Table of Contents
+## AI
+
+## System Design
+- [DDIA Chapter 1: Reliable, Scalable, and Maintainable Applications](system-design/ddia-01.md)
 
 ## Linux
 - [How to replace the home partition](linux/how-to-replace-home.md)
@@ -11,17 +14,13 @@ A collection of blogs and tidbits of information.
 - [App already running process error](linux/app-already-running.md)
 - [Linux WiFi drop due to battery saving](linux/wifi-drop-battery-saving.md)
 
-## JVM
-- [Logging in Java: Log4j vs SLF4J](jvm/logging-in-java.md)
-
-## Python
-- [NVM for Python: Pyenv](python/pyenv.md)
+## Languages
+- [JAVA - Logging in Java: Log4j vs SLF4J](languages/logging-in-java.md)
+- [PYTHON - NVM for Python: Pyenv](languages/pyenv.md)
+- [JAVASCRIPT - Node vs npm vs V8: Different tools in JavaScript](languages/different-tools-in-js.md)
 
 ## Cryptography
 - [Salts and peppers](cryptography/salts-and-peppers.md)
-
-## Frontend
-- [Node vs npm vs V8: Different tools in JavaScript](frontend/different-tools-in-js.md)
 
 ## Best Practices
 - [Conventional Commits](best-practices/conventional-commits.md)
