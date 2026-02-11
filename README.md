@@ -16,6 +16,7 @@ A collection of blogs and tidbits of information.
 - [Linux WiFi drop due to battery saving](linux/wifi-drop-battery-saving.md)
 
 ## Languages
+- [OOP vs Functional](languages/oop-vs-functional.md)
 - [JAVA - Logging in Java: Log4j vs SLF4J](languages/logging-in-java.md)
 - [PYTHON - NVM for Python: Pyenv](languages/pyenv.md)
 - [JAVASCRIPT - Node vs npm vs V8: Different tools in JavaScript](languages/different-tools-in-js.md)
