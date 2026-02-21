@@ -6,8 +6,9 @@ A collection of blogs and tidbits of information.
 ## AI
 - [What is an LLM and why does context matter?](ai/llm-and-context.md)
 
-## System Design
+## Backend and System Architecture
 - [DDIA Chapter 1: Reliable, Scalable, and Maintainable Applications](system-design/ddia-01.md)
+- [HTTP status codes](system-design/http-status-codes.md)
 
 ## Linux
 - [How to replace the home partition](linux/how-to-replace-home.md)
