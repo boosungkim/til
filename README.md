@@ -29,6 +29,7 @@ A collection of blogs and tidbits of information.
 - [Conventional Commits](best-practices/conventional-commits.md)
 - [Industry Standards](best-practices/industry-standards.md) (What softwares do companies use?)
 - [Spike](best-practice/spike.md)
+- [Configuration Design and Management]()
 
 ---
 
