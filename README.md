@@ -1,7 +1,7 @@
 # TIL
 > Today, I learned...
 
-A collection of blogs and tidbits of information.
+A collection of technical stuff I learned.
 
 ## AI
 - [What is an LLM and why does context matter?](ai/llm-and-context.md)
@@ -22,16 +22,29 @@ A collection of blogs and tidbits of information.
 - [PYTHON - NVM for Python: Pyenv](languages/pyenv.md)
 - [JAVASCRIPT - Node vs npm vs V8: Different tools in JavaScript](languages/different-tools-in-js.md)
 
-## Cryptography
-- [Salts and peppers](cryptography/salts-and-peppers.md)
-
 ## Best Practices
 - [Conventional Commits](best-practices/conventional-commits.md)
 - [Industry Standards](best-practices/industry-standards.md) (What softwares do companies use?)
 - [Spike](best-practice/spike.md)
 - [Configuration Design and Management]()
 
----
+## Cryptography
+- [Salts and peppers](cryptography/salts-and-peppers.md)
 
-## International Relations
-- [China's Thousand Plans Plan](international-relations/china-thousand-talents-plan.md)
+## Leetcode
+- [Arrays & Hashing](leetcode/arrays-and-hashing.md)
+- [Two Pointers](leetcode/two-pointers.md)
+- [Prefix Sum](leetcode/prefix-sum.md)
+- [Binary Search](leetcode/binary-search.md)
+- [Linked List](leetcode/linked-list.md)
+- [Trees](leetcode/trees.md)
+- [Heap & Priority Queue](leetcode/heap-and-priority-queue.md)
+- [Graphs](leetcode/graphs.md)
+- [Greedy](leetcode/greedy.md)
+- [Backtracking](leetcode/backtracking.md)
+- [DP](leetcode/dp.md)
+- [Sorting](leetcode/sorting.md)
+- [Hashmap](leetcode/hashmap.md)
+
+Data Structures (Array, String, Matrix, Linked List, Hash, Heap, Stack, Trie, Union Find, Sweep Line, others)
+https://www.1point3acres.com/bbs/forum.php?mod=redirect&goto=findpost&ptid=678970&pid=15018864
