@@ -5,6 +5,7 @@ A collection of technical stuff I learned.
 
 ## AI
 - [What is an LLM and why does context matter?](ai/llm-and-context.md)
+- [AI md files](ai/ai-md-files.md)
 
 ## Backend and System Architecture
 - [DDIA Chapter 1: Reliable, Scalable, and Maintainable Applications](system-design/ddia-01.md)
